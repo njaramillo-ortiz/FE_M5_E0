@@ -32,3 +32,7 @@ Mediante la resolución del ejercicio práctico se pudo comprobar las ventajas q
 También es útil poder conocer las diferentes mejoras sintácticas y estructurales que existen cuando uno trabaja con sistemas como Intellisense, que te permiten observar estas discordancias y conocer nuevas estructuras para optimizar tu código.
 
 Finalmente, el resultado es una codebase más legible y fácil tanto de entender como de trabajar.
+
+## Instrucciones de uso
+
+Requiere Node.js y npm instalados para su uso. Ejecutar el comando `npm run dev` desde la raíz del proyecto para ejecutarlo.
